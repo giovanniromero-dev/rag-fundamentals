@@ -9,5 +9,11 @@ sentence-transformers
 pypdf 
 python-dotenv
 ipykernel
-pandas
+pandas>=2.2,<3.0
 pymupdf
+python-docx
+docx2txt
+unstructured[docx]
+unstructured[xlsx]
+openpyxl
+jq
