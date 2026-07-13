@@ -17,3 +17,7 @@ unstructured[docx]
 unstructured[xlsx]
 openpyxl
 jq
+matplotlib
+## Embeddings
+langchain-huggingface
+sentence-transformers
